@@ -6,13 +6,15 @@ Matplotlib functions that are useful in visualizing data in data analysis.
 
 > Depends  on which apsect of our data we want to demonstrate:
 
-*  Data Values
+*  `` Data Value ``
 
-*  Data Distribution
+*  `` Data Distribution ``
 
-*  Data Concentration
+*  `` Data Concentration` `
 
-*  Data Composition
+*  `` Data Composition ``
+
+
 
 
 
