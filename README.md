@@ -10,7 +10,7 @@ Matplotlib functions that are useful in visualizing data in data analysis.
 
 *  `` Data Distribution ``
 
-*  `` Data Concentration` `
+*  `` Data Concentration``
 
 *  `` Data Composition ``
 
