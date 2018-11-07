@@ -23,13 +23,13 @@ Matplotlib functions that are useful in visualizing data in data analysis.
 - [x] 1.1_Series Plot
         
         
-        Suitable for large samples. You can used it to evaluate patterns and behavior in data over time.
+        Suitable for high samples. You can used it to evaluate patterns and behavior in data over time.
         
         Especially good for time-series data like stock-price.
         
 - [x] 1.1_Bar Plot
 
-        Suitable for small samples. You can use it to compare the difference among observations and evaluate the pattern.
+        Suitable for low granularity. You can use it to compare the difference among observations and evaluate the pattern.
         
         Example will be company annual revenue
 
