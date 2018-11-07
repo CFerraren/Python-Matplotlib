@@ -20,7 +20,7 @@ Matplotlib functions that are useful in visualizing data in data analysis.
 
 ### Data Value
 
-- [x] 1.0_Series Plot
+- [x] 1.1_Series Plot
         
         
         Suitable for large samples. You can used it to evaluate patterns and behavior in data over time.
