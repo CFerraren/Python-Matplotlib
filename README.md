@@ -21,9 +21,12 @@ Matplotlib functions that are useful in visualizing data in data analysis.
 ### Data Value
 
 - [x] 1.0_Plot
+
+
 ![png](Resources/pltsave/plot.png)
 
-- [x] 1.1_Series Plot[Brain Categorical](https://github.com/cliferraren/Machine-Learning/blob/master/Data%20PreProcessing/Data%20Preprocessing.ipynb)
+
+- [x] 1.1_[Series Plot](https://github.com/CFerraren/Python-Matplotlib/blob/master/1.0_Plot.ipynb)
         
         
         Suitable for high granularity. You can used it to evaluate patterns and behavior in data over time.
