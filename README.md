@@ -20,6 +20,9 @@ Matplotlib functions that are useful in visualizing data in data analysis.
 
 ### Data Value
 
+- [x] 1.0_Plot
+
+
 - [x] 1.1_Series Plot
         
         
@@ -37,7 +40,7 @@ Matplotlib functions that are useful in visualizing data in data analysis.
 
 ### Data Distribution
 
-- [x] 2.0_Histogram Plot
+- [x] 2.0_Histogram
         
         Good for demonstrating frequencies of the values.
         
