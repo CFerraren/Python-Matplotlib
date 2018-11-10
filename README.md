@@ -1,6 +1,6 @@
 # Python Matplotlib
 
-Matplotlib functions that are useful in visualizing data in data analysis.
+[Matplotlib](https://github.com/CFerraren/Python-Matplotlib/blob/master/0.1_Matplotlib.ipynb)functions that are useful in visualizing data in data analysis.
 
 ## Visualization
 
