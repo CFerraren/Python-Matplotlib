@@ -124,5 +124,19 @@
 ![png](Resources/pltsave/areaplot.png)
 
 
-       
+
+
+- [x] 5.0_[Seaborn Library](https://github.com/CFerraren/Python-Matplotlib/blob/master/5.0_Seaborn-Distribution%20Plot.ipynb)
+        
+        
+![png](Resources/pltsave/pairplot.png)
+
+
+- [x] 5.1_[Seaborn-Categorical Plot](https://github.com/CFerraren/Python-Matplotlib/blob/master/5.1_Seaborn-Categorical%20Plot.ipynb)
+
+- [x] 5.2_[Seaborn-Correlation Plots](https://github.com/CFerraren/Python-Matplotlib/blob/master/5.2_Seaborn-Correlation%20Plots.ipynb)
+
+- [x] 5.3_[Seaborn-Grid Plots](https://github.com/CFerraren/Python-Matplotlib/blob/master/5.3_Seaborn-Grid%20Plots.ipynb)
+
+- [x] 5.4_[Seaborn-Style](https://github.com/CFerraren/Python-Matplotlib/blob/master/5.4_Seaborn-Style.ipynb)
         
